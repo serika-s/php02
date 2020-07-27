@@ -31,9 +31,10 @@ foreach($fruits as $fruits){
 echo "\n";
 
 // 03課題４
-for ($i = 0; $i < 100; $i++){
+for ($i = 0; $i <= 100; $i++){
     if ($i % 5 == 0){
     echo $i;
+    echo "\n";
     }
 }
 echo "\n";
