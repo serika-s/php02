@@ -16,7 +16,7 @@ $total = 0;
 echo $total;
 echo "\n";
 
-for ($i =  0; $i <= 10000; $i++) {
+for ($i =  1; $i <= 10000; $i++) {
     $total += $i;
 }
 echo $total;
@@ -31,7 +31,7 @@ foreach($fruits as $fruits){
 echo "\n";
 
 // 03課題４
-for ($i = 0; $i <= 100; $i++){
+for ($i = 1; $i <= 100; $i++){
     if ($i % 5 == 0){
     echo $i;
     echo "\n";
