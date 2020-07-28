@@ -1,5 +1,6 @@
 <?php
 echo 'hello php!';
+echo "\n";
 
 // 02課題１
 $a = 3;

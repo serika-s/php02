@@ -1,5 +1,6 @@
 <?php
 echo 'hello php!';
+echo "\n";
 
 // 03課題１
 $name = "SERIKA";
